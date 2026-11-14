@@ -11,7 +11,7 @@ This is a group project for CS-583 at SDSU. The project is a learning environmen
 - Pikroid:
 
 ## Current Target
-Our current 3D game idea is to create an endless 3D runner inspired by Temple Run. The player automatically moves forward through a continuously spawning path. The player switches between 3 lanes, where they made jump/slide to avoid both stationary and moving obstacles while an enemy chases them from behind. As the player progresses through the instance their run speed increases. The ultimate goal is to attain the highest distance score possible.
+Our current 3D game idea is to create an endless 3D runner inspired by Temple Run. The player automatically moves forward through a continuously spawning path. The player switches between 3 lanes, where they must jump/slide to avoid both stationary and moving obstacles while an enemy chases them from behind. As the player progresses through the instance their run speed increases. The ultimate goal is to attain the highest distance score possible.
 
 ## Individual Goals
 - [Fill]: Player Controller (movement, lanes, jump/slide)
