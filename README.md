@@ -16,6 +16,6 @@ Our current 3D game idea is to create an endless 3D runner inspired by Temple Ru
 ## Individual Goals
 - [Fill]: Player Controller (movement, lanes, jump/slide)
 - [Fill]: Level generation (track tiles, endless spawn)
-- [Fill]: Obstacles/enemy
+- [Fill]: obstacles and enemy
 - [Fill]: Art, animation, and lighting
 - [Fill]: UI/menus, game flow, audio
