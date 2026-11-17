@@ -4,7 +4,7 @@
 - Aaron Timbang T/TH
 - Noah Vargas
 - Amir Javadnia M/W
-- Chanel
+- Nester Lomeli T/TH
 - Pikroid
 
 ## Current Target
@@ -12,7 +12,7 @@ Our current game idea is to create an endless 3D runner inspired by Temple Run. 
 
 ## Individual Goals
 - [Aaron]: Player Controller (movement, lanes, jump/slide)
-- [Pekroid]: Level generation (track tiles, endless spawn)
+- [Pekroid]: Art, animation, and lighting
 - [Amir]: obstacles and enemy
-- [Chanel]: Art, animation, and lighting
+- [Nester]: Level generation (track tiles, endless spawn)
 - [Noah]: UI/menus, game flow, audio
