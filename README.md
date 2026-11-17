@@ -3,7 +3,7 @@
 ## Team Members
 - Aaron Timbang
 - Noah Vargas
-- Amir
+- Amir Javadnia
 - Chanel
 - Pikroid
 
