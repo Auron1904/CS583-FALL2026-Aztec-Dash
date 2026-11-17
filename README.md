@@ -1,7 +1,7 @@
 # AZTEC DASH
 
 ## Team Members
-- Aaron Timbang
+- Aaron Timbang T/TH
 - Noah Vargas
 - Amir Javadnia
 - Chanel
