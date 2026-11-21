@@ -2,7 +2,7 @@
 
 ## Team Members
 - Aaron Timbang T/TH
-- Noah Vargas
+- Noah Vargas T/TH
 - Amir Javadnia M/W
 - Nester Lomeli T/TH
 - Matthew Guiao T/TH
