@@ -16,3 +16,6 @@ Our current game idea is to create an endless 3D runner inspired by Temple Run. 
 - [Amir]: obstacles and enemy
 - [Nester]: Level generation (track tiles, endless spawn)
 - [Noah]: UI/menus, game flow, audio
+
+## Halfway Video Gameplay
+https://youtu.be/ixoTijvOOyw
